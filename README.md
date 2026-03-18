@@ -119,7 +119,7 @@ The project can be distributed under the **MIT License**, allowing free use and 
 GitHub link:
 
 ```
-
+https://github.com/danilmimozyra/FaceSpec
 ```
 
 ---
