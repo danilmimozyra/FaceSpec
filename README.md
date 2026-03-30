@@ -100,11 +100,35 @@ The application behaved as expected in all tests.
 pip install opencv-python deepface pillow
 ```
 
-Run the application:
+**Run the application:**
 
 ```
 python main.py
 ```
+
+**Controls and Hotkeys**
+
+Main Menu
+
+- Click buttons to select mode
+
+Camera Mode
+
+- `ESC` — exit to main menu
+
+Photo Mode
+
+- `U` — upload photo
+- `S` — save analyzed image
+- `ESC` — return to main menu
+
+Video Mode
+
+- `SPACE` — pause / play
+- `A` — jump backward
+- `D` — jump forward
+- `S` — save current frame
+- `ESC` — return to main menu
 
 ---
 
